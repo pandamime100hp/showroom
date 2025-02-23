@@ -55,3 +55,9 @@ dist/
 # Pipenv and Poetry
 Pipfile.lock
 poetry.lock
+
+
+# Terraform stuff
+.terraform*
+secret.tfvars
+*.tfstate*
